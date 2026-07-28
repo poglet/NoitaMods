@@ -1,0 +1,5 @@
+<Mod
+    name="Start with Peace with Gods"
+    description="Gives you the Peace with Gods perk at the start of every run."
+    request_no_api_restrictions="0" >
+</Mod>
